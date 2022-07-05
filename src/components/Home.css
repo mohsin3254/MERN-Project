@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300&display=swap");
+.mian-text {
+  color: White;
+  padding-top: 150px;
+  font-size: 48px;
+  font-family: "Lato", sans-serif;
+  width: 50%;
+  text-align: center;
+  text-transform: capitalize;
+  letter-spacing: 3px;
+  word-spacing: 6px;
+  line-height: 5.5rem;
+}
+.head {
+  background-image: linear-gradient(rgb(0, 0, 0, 0.5), rgb(0, 0, 0, 0.7)),
+    url("images/travel2.jfif");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  width: 100%;
+  background-attachment: fixed;
+}
+.btn {
+  color: white;
+  border: 1px solid #f53b57;
+  width: 205px;
+  margin: 2px;
+  margin-top: 35px;
+  background-color: #f53b57;
+  border-radius: 18px;
+  text-align: center;
+}
+.btn:hover {
+  background-color: #34e7e4;
+  border: 1px solid #34e7e4;
+}
+.btn-one {
+  margin-left: 425px;
+}
+
+.btn-one btn {
+  margin-left: 500px;
+  float: left;
+  padding-left: 500px;
+}
+
+.nletter {
+  text-align: center;
+  padding-top: 35px;
+  color: #f53b57;
+  font-family: "Lato", sans-serif;
+  letter-spacing: 3px;
+  word-spacing: 2px;
+}
+hr {
+  width: 250px;
+  height: 15px;
+  color: #f53b57;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+p {
+  text-align: center;
+  letter-spacing: 1px;
+}
+.news {
+  background-color: #ecf0f1;
+  padding: 60px;
+}
+.input-group {
+  width: 30%;
+}
+.btn-primary {
+  margin-left: 460px;
+}
